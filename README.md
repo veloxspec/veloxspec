@@ -3,7 +3,6 @@
 <h4>Languages:</h4>
 <img align="left" height="30" style="padding: 3px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img align="left" height="30" style="padding: 3px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="left" height="30" style="padding: 3px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="left" height="30" style="padding: 3px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <br/>
 
